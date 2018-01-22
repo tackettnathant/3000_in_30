@@ -1,0 +1,18 @@
+div.headerRow {
+    background:#CDD3D5;
+    backgroun-size:cover;
+    height:3em;
+    padding:0;
+    margin:0;
+
+}
+div.headerRow h5 {
+    color:#343633;
+    font-size:1.9rem;
+    line-height:2em;
+}
+
+img.profile_pic {
+    height:3em;
+    float: left;
+}

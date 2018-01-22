@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+button.btn.btn-primary {
+
+    background: #005494;
+}
+button.btn.btn-primary:hover {
+    background: #408CBE;
+}
+img.signin {
+    margin-top: 10em;
+}

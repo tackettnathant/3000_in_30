@@ -1,0 +1,9 @@
+table {
+	background-color:white;
+}
+thead tr td{
+    background:#CDD3D5;
+    color:#343633;
+    font-weight: bold;
+}
+

@@ -1,0 +1,27 @@
+div.grid-cell {
+    background-color: #E8F1F9;
+    border:1px solid black;
+    text-align: center;
+}
+
+input {
+    width:3em;
+    text-align: center;
+}
+
+img.add {
+    margin-top: .25em;
+}
+img.smallpushup {
+
+}
+img.done {
+    border:4px solid #B3EFB2;
+}
+img.not-done {
+    border:2px solid #E8F1F9;
+}
+
+div.nopadding {
+    padding:0;
+}

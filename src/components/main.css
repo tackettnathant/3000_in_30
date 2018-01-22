@@ -1,0 +1,46 @@
+div.mainPack {
+    padding:0px;background-color:#E8F1F9;
+}
+img.mainPack {
+    min-width:100%;z-index: 10
+}
+div.details {
+    margin-bottom:2em;
+    margin-top:1em;
+    height:3em;
+}
+div.details h4 {
+    color:#E8F1F9;
+}
+span.tiny {
+    font-size:1em;
+    color:#E8F1F9;
+}
+.hidden {
+    visibility:hidden;
+}
+
+@media
+only screen
+and (min-width : 1024px) {
+    div.col-1 {
+        width:35%;
+    }
+    div.col-10 {
+        width:30%;
+    }
+
+}
+
+@media
+only screen
+and (min-width : 768px) and (max-width : 1023px) {
+    div.col-1 {
+        width:25%;
+    }
+    div.col-10 {
+        width:50%;
+    }
+
+
+}

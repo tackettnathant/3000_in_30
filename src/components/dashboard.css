@@ -1,0 +1,68 @@
+h4 {
+    color:#E8F1F9;
+}
+.input-sm {
+    width:12em;
+    margin-left:auto;
+    margin-right:auto;
+}
+input.form-input.input-lg {
+    height:6rem;
+    font-size:3rem;
+    margin-bottom:.25em;
+    margin-left:auto;
+    margin-right:auto;
+}
+input.form-input.date-input {
+    height:6rem;
+    font-size:2rem;
+    margin-bottom:.25em;
+    margin-left:auto;
+    margin-right:auto;
+}
+.date-select {
+    font-size:2rem;
+}
+h1 {
+	font-size:7rem;
+	padding:0px;
+	margin:0px;
+}
+h5 {
+	color:#E8F1F9;
+	margin:0px;
+    padding-bottom:.5em;
+}
+div.completed-packs {
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+div.total-steps h1.notify { color:#B3EFB2; }
+div.total-steps h1 {
+	color:#E8F1F9; transition:color 1s; -webkit-transition:color 1s;
+}
+
+#history .modal-container{
+	width:80%;
+}
+img.tinypack {
+    height:2em;
+    vertical-align:middle;
+}
+span.stepref {
+    color:#E8F1F9;
+}
+
+.logout {
+    color:#ffffff;
+}
+img.smallpack {
+    height:3.5em;
+
+}
+.btn {
+    margin-left:0;
+    margin-right:0;
+    margin-top:.75em;
+}
